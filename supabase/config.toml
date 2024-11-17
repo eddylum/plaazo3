@@ -1,0 +1,17 @@
+[functions]
+verify_jwt = false
+
+[functions.create-checkout]
+verify_jwt = false
+
+[functions.create-connect-account]
+verify_jwt = false
+
+[functions.get-analytics]
+verify_jwt = false
+
+[functions.capture-payment]
+verify_jwt = false
+
+[functions.cancel-payment]
+verify_jwt = false
